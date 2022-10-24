@@ -1,0 +1,25 @@
+.logo {
+    list-style-type: none;
+}
+
+.sponsors {
+    background-color: blue;
+    list-style-type: none;
+}
+
+.layer {
+    position: relative;
+    list-style-type: none;
+}
+
+.logotype {
+    position: absolute;
+}
+
+.FEATURES {
+    color: blue;
+}
+
+.imag {
+    list-style-type: none;
+}
